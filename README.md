@@ -4,7 +4,8 @@
 
 <h2> CSE 1325 - Digital Logic Design  </h2>
 
-Section: E - Give a knock to [Fahim](https://www.facebook.com/iptu.fba/) 
+Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
+Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) 
 
 <hr>
 
@@ -16,13 +17,18 @@ Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 
 <h2> CSE 2213 - Discrete Mathematics  </h2>
 
-Section: A - Give a knock to [Fahim](https://www.facebook.com/iptu.fba/)
+Section: A - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)
 
+<hr>
+
+<h2> MATH 1151 - Fundamental Calculus  </h2>
+
+Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
 <hr>
 
 <h2> CSE 1115 - Object Oriented Programming  </h2>
 
-Section: D - Give a knock to [Fahim](https://www.facebook.com/iptu.fba/)
+Section: D - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)
 
 <hr>
 
@@ -35,5 +41,5 @@ Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 <h2> PHY 106 - Physics Lab  </h2>
 
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
-
+Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
 <hr>
