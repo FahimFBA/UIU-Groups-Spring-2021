@@ -146,6 +146,21 @@ Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <
 Section: E - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
 <hr>
 
+
+<h2> CSE 4523 - Simulation and Modeling Theory</h2>
+
+Section: A - Give a knock to [Sumaya Bintay Mannan](https://www.facebook.com/sumaya.sumayabintaymannan/) <br>
+
+<hr>
+
+<h2> CSI 424 - Simulation and Modeling Laboratory</h2>
+
+Section: B - Give a knock to [Sumaya Bintay Mannan](https://www.facebook.com/sumaya.sumayabintaymannan/) <br>
+
+<hr>
+
+
+
 <h2> CSE 1111 - Structured Programming Language</h2>
 
 Section: C - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
