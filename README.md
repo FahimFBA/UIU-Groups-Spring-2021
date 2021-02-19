@@ -42,6 +42,7 @@ Section: A - Give a knock to [Rezoana Ahamed Samira](https://www.facebook.com/re
 
 <h2> CSE 2217 - Data Structure and Algorithms II </h2>
 
+Section: A - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/) <br>
 Section: C - Give a knock to [Safayed Bin Islam](https://www.facebook.com/safayed.binislam.1/) <br>
 
 <hr>
@@ -49,6 +50,9 @@ Section: C - Give a knock to [Safayed Bin Islam](https://www.facebook.com/safaye
 <h2> CSE 2218 - Data Structure and Algorithms II Laboratory</h2>
 
 Section: A - Give a knock to [Safayed Bin Islam](https://www.facebook.com/safayed.binislam.1/) <br>
+
+Section: C - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/) <br>
+
 
 <hr>
 
@@ -100,6 +104,18 @@ Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/)
 <h2> CSE 1116 - Object Oriented Programming Lab  </h2>
 
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen/)
+
+<hr>
+
+<h2> CSE 4509 - Operating Systems</h2>
+
+Section: B - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/)
+
+<hr>
+
+<h2> CSE 4510- Operating Systems Laboratory</h2>
+
+Section: A - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/)
 
 <hr>
 
