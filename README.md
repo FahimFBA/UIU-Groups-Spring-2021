@@ -78,6 +78,7 @@ Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 
 Section: A - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) <br>
 Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
+Section: D - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
 
 <hr>
 
@@ -132,6 +133,7 @@ Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 
 <h2> PHY 106 - Physics Lab  </h2>
 
+Section: A - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
 Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
 <hr>
@@ -143,6 +145,11 @@ Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <
 Section: E - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
 <hr>
 
+<h2> CSE 1111 - Structured Programming Language</h2>
+
+Section: C - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
+
+<hr>
 
 <h2> CSE 1112 - Structured Programming Language Laboratory </h2>
 
