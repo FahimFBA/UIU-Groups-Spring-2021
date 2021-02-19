@@ -4,7 +4,7 @@
 
 <h2> CSE 1325 - Digital Logic Design  </h2>
 
-Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
+Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
 Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) 
 
 <hr>
@@ -40,6 +40,6 @@ Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 
 <h2> PHY 106 - Physics Lab  </h2>
 
-Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
+Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
 Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
 <hr>
