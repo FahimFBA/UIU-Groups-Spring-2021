@@ -2,6 +2,12 @@
 
 <hr>
 
+<h2> BIO 3105 - Biology for Engineers</h2>
+
+Section: Haven't decided yet now! - Give a knock to [Masuma Tasnim](https://www.facebook.com/masuma.tasnum/) <br>
+
+<hr>
+
 
 <h2> Math 2183 - Calculus and Linear Algebra  </h2>
 
