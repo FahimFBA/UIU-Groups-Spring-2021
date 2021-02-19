@@ -62,7 +62,9 @@ Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahme
 Section: B - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 Section: C - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 Section: D - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil) <br>
-Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) 
+Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)  <br>
+Section: F - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) 
+
 
 <hr>
 
@@ -91,12 +93,15 @@ Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Has
 
 Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
 Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
+Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) 
+
 
 <hr>
 
 <h2> CSE 1115 - Object Oriented Programming  </h2>
 
 Section: A - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
+Section: B - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
 Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/)
 
 <hr>
