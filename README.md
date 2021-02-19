@@ -14,8 +14,8 @@ Section: Haven't decided yet now! - Give a knock to [Masuma Tasnim](https://www.
 <h2> Math 2183 - Calculus and Linear Algebra  </h2>
 
 Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil) <br>
-Section: B - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
-Section: C - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
+Section: B - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
+Section: C - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
 Section: D - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
 Section: E - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
 
@@ -26,9 +26,9 @@ Section: E - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma
 
 <h2> Math 2201 - Coordinate Geometry and Vector Analysis  </h2>
 
-Section: A - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
-Section: E - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
-Section: F - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
+Section: A - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
+Section: E - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
+Section: F - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
 
 
 <hr>
@@ -61,8 +61,8 @@ Section: C - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.the
 <h2> CSE 1325 - Digital Logic Design  </h2>
 
 Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
-Section: B - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
-Section: C - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
+Section: B - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
+Section: C - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
 Section: D - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil) <br>
 Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)  <br>
 Section: F - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) 
