@@ -135,7 +135,8 @@ Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 
 Section: A - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
-Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
+Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
+Section: E - Give a knock to [Nizamul Haque Jishan](https://www.facebook.com/PrinceJisu920/)
 <hr>
 
 <h2> MATH 2205 - Probability and Statistics  </h2>
