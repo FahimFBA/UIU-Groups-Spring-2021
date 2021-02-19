@@ -5,7 +5,7 @@
 
 <h2> Math 2183 - Calculus and Linear Algebra  </h2>
 
-
+Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil) <br>
 Section: B - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 Section: C - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 
@@ -30,6 +30,7 @@ Section: F - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <b
 Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
 Section: B - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 Section: C - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
+Section: D - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil) <br>
 Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) 
 
 <hr>
@@ -45,6 +46,14 @@ Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 Section: A - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)
 
 <hr>
+
+
+<h2> ECO 4101 - Economics  </h2>
+
+Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil/)
+<hr>
+
+
 
 <h2> MATH 1151 - Fundamental Calculus  </h2>
 
