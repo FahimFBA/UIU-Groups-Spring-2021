@@ -43,7 +43,8 @@ Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanu
 
 <h2> CSE 2213 - Discrete Mathematics  </h2>
 
-Section: A - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)
+Section: A - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) <br>
+Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
 
 <hr>
 
@@ -57,7 +58,9 @@ Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Has
 
 <h2> MATH 1151 - Fundamental Calculus  </h2>
 
-Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed)
+Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
+Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
+
 <hr>
 
 <h2> CSE 1115 - Object Oriented Programming  </h2>
@@ -89,4 +92,10 @@ Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahme
 Section: C - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
 Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
 Section: E - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
+<hr>
+
+
+<h2> CSE 1112 - Structured Programming Language Laboratory </h2>
+
+Section: E - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
 <hr>
