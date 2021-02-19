@@ -132,6 +132,7 @@ Section: A - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.the
 <h2> PHY 105 - Physics   </h2>
 
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
+Section: E - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.facebook.com/muhit.chowdhury.376/) <br>
 
 <hr>
 
@@ -173,6 +174,7 @@ Section: C - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Mi
 
 <h2> CSE 1112 - Structured Programming Language Laboratory </h2>
 
+Section: B - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.facebook.com/muhit.chowdhury.376/) <br>
 Section: E - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
 Section: F - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
 <hr>
