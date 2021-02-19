@@ -66,6 +66,12 @@ Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/)
 
 <hr>
 
+<h2> CSE 1116 - Object Oriented Programming Lab  </h2>
+
+Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen/)
+
+<hr>
+
 <h2> PHY 105 - Physics   </h2>
 
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
