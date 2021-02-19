@@ -24,7 +24,17 @@ Section: F - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <b
 
 <hr>
 
+<h2> CSE 2217 - Data Structure and Algorithms II </h2>
 
+Section: C - Give a knock to [Safayed Bin Islam](https://www.facebook.com/safayed.binislam.1/) <br>
+
+<hr>
+
+<h2> CSE 2218 - Data Structure and Algorithms II Laboratory</h2>
+
+Section: A - Give a knock to [Safayed Bin Islam](https://www.facebook.com/safayed.binislam.1/) <br>
+
+<hr>
 
 <h2> CSE 1325 - Digital Logic Design  </h2>
 
