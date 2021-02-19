@@ -28,7 +28,7 @@ Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahme
 
 <h2> CSE 1115 - Object Oriented Programming  </h2>
 
-Section: D - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)
+Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/)
 
 <hr>
 
