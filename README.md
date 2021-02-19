@@ -15,6 +15,7 @@ Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Has
 Section: B - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 Section: C - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <br>
 Section: D - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
+Section: E - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
 
 
 <hr>
@@ -29,6 +30,15 @@ Section: F - Give a knock to [Abrar Zahim](https://www.facebook.com/abrarzyn) <b
 
 
 <hr>
+
+
+<h2> 	CSE 2215 - Data Structure and Algorithms I </h2>
+
+Section: A - Give a knock to [Rezoana Ahamed Samira](https://www.facebook.com/rezoanaahamed.samira/) <br>
+
+<hr>
+
+
 
 <h2> CSE 2217 - Data Structure and Algorithms II </h2>
 
@@ -116,4 +126,5 @@ Section: E - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <
 <h2> CSE 1112 - Structured Programming Language Laboratory </h2>
 
 Section: E - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
+Section: F - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
 <hr>
