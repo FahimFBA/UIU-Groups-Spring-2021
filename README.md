@@ -18,7 +18,7 @@ Section: B - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <b
 Section: C - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
 Section: D - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
 Section: E - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
-
+Section: F - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
 
 <hr>
 
@@ -72,6 +72,7 @@ Section: F - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariff
 
 <h2> CSE 1326 - Digital Logic Design Lab </h2>
 
+Section: C - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
 Section: E - Give a knock to [Maliha Mahfuja](https://www.facebook.com/natasha.islam.52687506/) <br>
 Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
 
@@ -108,6 +109,7 @@ Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariff
 Section: A - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
 Section: B - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
 Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/)
+Section: E - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
 
 <hr>
 
