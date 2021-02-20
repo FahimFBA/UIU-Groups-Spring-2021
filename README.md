@@ -65,7 +65,7 @@ Section: B - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <b
 Section: C - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <br>
 Section: D - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil) <br>
 Section: E - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/)  <br>
-Section: F - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) 
+Section: F - Give a knock to [Fahim Khan](https://www.facebook.com/profile.php?id=100038580673423) <br>
 
 
 <hr>
@@ -74,14 +74,14 @@ Section: F - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariff
 
 Section: C - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
 Section: E - Give a knock to [Maliha Mahfuja](https://www.facebook.com/natasha.islam.52687506/) <br>
-Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
+Section: F - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
 
 <hr>
 
 <h2> CSE 2213 - Discrete Mathematics  </h2>
 
 Section: A - Give a knock to [Md. Fahim Bin Amin](https://www.facebook.com/iptu.fba/) <br>
-Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
+Section: C - Give a knock to [Fahim Khan](https://www.facebook.com/profile.php?id=100038580673423) <br>
 Section: D - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
 Section: E - Give a knock to [Maliha Mahfuja](https://www.facebook.com/natasha.islam.52687506/) <br>
 
@@ -90,7 +90,7 @@ Section: E - Give a knock to [Maliha Mahfuja](https://www.facebook.com/natasha.i
 
 <h2> ECO 4101 - Economics  </h2>
 
-Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil/)
+Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Hasan.Adil/) <br>
 <hr>
 
 
@@ -99,7 +99,7 @@ Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Has
 
 Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
 Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
-Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) 
+Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
 
 
 <hr>
@@ -108,32 +108,33 @@ Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariff
 
 Section: A - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
 Section: B - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
-Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/)
+Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
 Section: E - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
 
 <hr>
 
 <h2> CSE 1116 - Object Oriented Programming Lab  </h2>
 
-Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen/)
+Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen/) <br>
 
 <hr>
 
 <h2> CSE 4509 - Operating Systems</h2>
 
-Section: B - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/)
+Section: B - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/) <br>
 
 <hr>
 
 <h2> CSE 4510- Operating Systems Laboratory</h2>
 
-Section: A - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/)
+Section: A - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.thea/) <br>
 
 <hr>
 
 <h2> PHY 105 - Physics   </h2>
 
-Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) 
+Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
+Section: C - Give a knock to [Fahim Khan](https://www.facebook.com/profile.php?id=100038580673423)  <br>
 Section: E - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.facebook.com/muhit.chowdhury.376/) <br>
 
 <hr>
@@ -143,7 +144,7 @@ Section: E - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.faceboo
 Section: A - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Miladmfarabi2/) <br>
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
 Section: D - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
-Section: E - Give a knock to [Nizamul Haque Jishan](https://www.facebook.com/PrinceJisu920/)
+Section: E - Give a knock to [Nizamul Haque Jishan](https://www.facebook.com/PrinceJisu920/) <br>
 <hr>
 
 <h2> MATH 2205 - Probability and Statistics  </h2>
@@ -178,5 +179,5 @@ Section: C - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Mi
 
 Section: B - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.facebook.com/muhit.chowdhury.376/) <br>
 Section: E - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
-Section: F - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
+Section: F - Give a knock to [Fahim Khan](https://www.facebook.com/profile.php?id=100038580673423)  <br>
 <hr>
