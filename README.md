@@ -111,6 +111,7 @@ Section: F - Give a knock to [Mohammad Masum](https://www.facebook.com/masum3000
 
 Section: A - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
 Section: B - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
+Section: C - Give a knock to [Golam Mahmud Nafiz](https://www.facebook.com/1000yearsoldguy) <br>
 Section: D - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn/) <br>
 Section: E - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
 
