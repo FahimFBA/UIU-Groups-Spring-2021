@@ -100,6 +100,7 @@ Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Has
 <h2> MATH 1151 - Fundamental Calculus  </h2>
 
 Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
+Section: B - Give a knock to [Tazveer Khan](https://www.facebook.com/tazveerhossain.khan.7/) <br>
 Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
 Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
 Section: F - Give a knock to [Mohammad Masum](https://www.facebook.com/masum3000/) <br>
