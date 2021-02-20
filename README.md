@@ -19,6 +19,7 @@ Section: C - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <b
 Section: D - Give a knock to [Md. Aftab Uddin Toufiq](https://www.facebook.com/muddinofficials/) <br>
 Section: E - Give a knock to [Sami Rahman](https://www.facebook.com/sutan.sharma.7/) <br>
 Section: F - Give a knock to [Al Ahad Arman](https://www.facebook.com/Arman460/) <br>
+Section: G - Give a knock to [Jahid Sami](https://www.facebook.com/jahidsami1/)  <br>
 
 <hr>
 
@@ -37,6 +38,7 @@ Section: F - Give a knock to [Abrar Zahin](https://www.facebook.com/abrarzyn) <b
 <h2> 	CSE 2215 - Data Structure and Algorithms I </h2>
 
 Section: A - Give a knock to [Rezoana Ahamed Samira](https://www.facebook.com/rezoanaahamed.samira/) <br>
+Section: D - Give a knock to [Jahid Sami](https://www.facebook.com/jahidsami1/)  <br>
 
 <hr>
 
@@ -100,6 +102,7 @@ Section: A - Give a knock to [Sajib Talukder](https://www.facebook.com/Sajib.Has
 Section: A - Give a knock to [Siyam Ahmed](https://www.facebook.com/m.siyam.ahmed) <br>
 Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
 Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
+Section: F - Give a knock to [Mohammad Masum](https://www.facebook.com/masum3000/) <br>
 
 
 <hr>
@@ -133,6 +136,7 @@ Section: A - Give a knock to [Juairia Thea](https://www.facebook.com/juairia.the
 
 <h2> PHY 105 - Physics   </h2>
 
+Section: A - Give a knock to [Mohammad Masum](https://www.facebook.com/masum3000/) <br>
 Section: B - Give a knock to [Farhanul Arifeen](https://www.facebook.com/farhanul.arifeen) <br>
 Section: C - Give a knock to [Fahim Khan](https://www.facebook.com/profile.php?id=100038580673423)  <br>
 Section: E - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.facebook.com/muhit.chowdhury.376/) <br>
@@ -180,4 +184,5 @@ Section: C - Give a knock to [Milad Mohammad Farabi](https://www.facebook.com/Mi
 Section: B - Give a knock to [Abdul Muhit Chowdhury Badshah](https://www.facebook.com/muhit.chowdhury.376/) <br>
 Section: E - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.ifty.752/) <br>
 Section: F - Give a knock to [Fahim Khan](https://www.facebook.com/profile.php?id=100038580673423)  <br>
+Section: G - Give a knock to [Jahid Sami](https://www.facebook.com/jahidsami1/)  <br>
 <hr>
