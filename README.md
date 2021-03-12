@@ -106,6 +106,12 @@ Section: C - Give a knock to [Iftekhar Ifty](https://www.facebook.com/iftekhar.i
 Section: E - Give a knock to [Arif Foysal Nayeem](https://www.facebook.com/ariffoysal.nayeem.9/) <br>
 Section: F - Give a knock to [Mohammad Masum](https://www.facebook.com/masum3000/) <br>
 
+<hr>
+
+<h2> IPE 3401/IPE 401/IPE 4101 - Industrial and Operational Management </h2>
+
+Section: C - Give a knock to [Mehedi Hassan](https://www.facebook.com/itzmehedi1/) <br>
+
 
 <hr>
 
@@ -174,7 +180,10 @@ Section: B - Give a knock to [Sumaya Bintay Mannan](https://www.facebook.com/sum
 
 <hr>
 
+<h2> CSI 321 - Software Engineering  </h2>
+Section: A - Give a knock to [Mehedi Hassan](https://www.facebook.com/itzmehedi1/) <br>
 
+<hr>
 
 <h2> CSE 1111 - Structured Programming Language</h2>
 
